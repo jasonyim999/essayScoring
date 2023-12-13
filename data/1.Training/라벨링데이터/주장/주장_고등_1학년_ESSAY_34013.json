@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리나라에서 수능과 고등학교 시절 입시 결과는 인생에서 가장 중요한 부분을 차지한다.#@문장구분# 또한, 그 입시 결과로 인한 나비효과는 인생 전반에 영향을 미친다.#@문장구분# 현 수능은 교육 평가의 정의를 실현하기에 아직 개선해야할 점이 많다.#@문장구분# 그에 관한 주장은 다음과 같다.#@문장구분#",
+      "paragraph_len": 222,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 첫째, 평가 기준에 대한 모순이 있다.#@문장구분# 목표달성중심 교육평가를 교육과정과 수업 활동을 통해 교육목표가 실제로 도달된 정도를 결정하는 과정이라고 정의한다.#@문장구분# 하지만 과연 교육과정과 수업 활동을 통해 습득한 지식을 가지고 현 수능을 치러낼 수 있는가에 대한 의문이 든다.#@문장구분# '우리나라 교육지표 현황과 사교육 영향 분석' 자료와 사교육을 받는 학생이 학교성적에서 상위권에 속할 확률이 높다는 분석을 통해서도 알 수 있듯이 공교육으로 현재의 수능을 치르기에는 어려움이 따른다.#@문장구분# ",
+      "paragraph_len": 342,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 둘째, 학업 환경 부분에서 현 입시제도는 전반적으로 지역 불균형을 촉진한다.#@문장구분# 우리가 알고 있는 대치동, 강남 8학군의 경우 학생들의 경쟁이 매우 치열하다.#@문장구분# 이러한 곳에서 교육받은 학생과 시골에서 교육받은 학생의 학업 성취가 과연 같을까?#@문장구분# 이에 따라 많은 사람들은 서울로 이사를 가거나 학원을 다니기 위해 많은 시간을 통학에 소모한다.#@문장구분#",
+      "paragraph_len": 267,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 셋째, 비용적 측면에서 수험생들에게 부담이 된다.#@문장구분# 공교육만으로 수능을 치르기에는 현재 교육과정의 허점이 많다.#@문장구분# 결국 목표 달성을 위해서 학생들은 비용을 지불해야하고, 비용을 지불 할 능력이 되지 않는 학생들은 차별과 박탈감을 경험한다.#@문장구분# 사교육 시장이 점점 더 커지는 이유 또한 공교육만으로 수능을 칠 수 없는 상황이기 때문이라고 생각한다.#@문장구분# ",
+      "paragraph_len": 271,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": " 교육부에서는 수험생들이 느끼는 차별, 박탈감 그리고 공교육 확대를 추진하지만 사교육이 계속해서 늘어나고 있는 이러한 상황에 대한 근본적인 원인을 대해서 파악하고 개선해 나가야 한다.#@문장구분# 학생들이 공교육만으로 수능을 치를 수 있을 때가 진정으로 수능이 교육 평가의 정의를 실현할 수 있는 시점 일 것이다.#@문장구분#",
+      "paragraph_len": 208,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      27
+    ],
+    "essay_scoreT_avg": 29,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "평가에 대한 본인의 의견",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_34013",
+    "essay_prompt": " 평가는 일반적으로 평가대상의 장점과 가치를 결정하는 과정을 말합니다.\n\n 세상에는 무수히 많은 평가 방법들이 존재하고 그 주제도 다양합니다.\n\n 우리나라의 경우는 어떨까요? 중간, 기말시험이 있고 미술과 같은 기본기와 창의성을 평가하는 과목도 있습니다. 체육과 같은 신체적인 능력을 평가하는 과목도 있지요. 모두 적절한 기준이 있으며 매우 객관적인 기준이라고 말합니다.\n\n 하지만 여러분이 생각하기에 모든 학생을 동일한 평가지표에 맞추어 평가하는 것이 올바른 방식이라고 생각하나요?\n\n 사람마다 특성이 존재하듯 각각의 목표 또한 다르고 성과도 다를 수 있습니다. 특정 기준에 의존해 본인의 성과도를 평가하는 것이 바르다고 생각되나요?\n\n 현재의 평가 방식은 최고의 객관적인 평가 방식이라고 생각하신다면 그 이유를 작성해주세요. 아니라면 어떤 평가 기준이 추가되어야 하고 또한 어떤 생각으로 평가가 이루어졌으면 좋겠는지 서술해 주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 958,
+    "essay_main_subject": "평가에 대한 본인의 의견"
+  }
+}
